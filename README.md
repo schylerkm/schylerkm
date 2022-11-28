@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Christmas movie website 🎄
-- 🌱 I’m currently learning JavaScript, React, and Gatsby
+- 🌱 I’m currently learning JavaScript, React, Gatsby, and Python
 - ⚡ Fun fact: my hobbies include knitting and crocheting 🧶, baking 🍞, and running 🏃
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
